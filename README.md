@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lucapalano/KeyBox.svg?branch=master-travis)](https://travis-ci.org/lucapalano/KeyBox)
+
 KeyBox
 ======
 KeyBox is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys. Key management and administration is based on profiles assigned to defined users.
